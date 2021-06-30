@@ -1,5 +1,5 @@
 package snips
 
-func info() string {
+func Info() string {
 	return "Snips 0.0.1"
 }
