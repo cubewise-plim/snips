@@ -13,3 +13,7 @@ func Version() string {
 func ThirdCommit() string {
 	return VERSION
 }
+
+func FourthCommit() string {
+	return VERSION
+}
