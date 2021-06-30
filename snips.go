@@ -9,3 +9,7 @@ func Info() string {
 func Version() string {
 	return VERSION
 }
+
+func ThirdCommit() string {
+	return VERSION
+}
